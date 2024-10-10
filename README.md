@@ -1,18 +1,8 @@
-# create-svelte
+# Tutorial: Web Development with TigerGraph (UI Client)
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+This repo is part of my TigerGraph tutorial, which can be found on my blog page: [SamuelEarl.com/blog](https://samuelearl.com/blog)
 
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+---
 
 ## Developing
 
